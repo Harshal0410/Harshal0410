@@ -101,13 +101,13 @@ of web development projects. I am eager to take on the challenges of web develop
 </table>
 <h3 align="center">GitHub Analytics: </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam6209&count_private=true&theme=algolia" alt="Harshal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshal0410&count_private=true&theme=algolia" alt="Harshal's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam6209&langs_count=8&theme=algolia" alt="Harshal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0410&langs_count=8&theme=algolia" alt="Harshal's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam6209" alt="Harshal's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0410" alt="Harshal's GitHub stats" />
 
 </div>
 
