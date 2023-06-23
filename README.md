@@ -23,7 +23,7 @@ of web development projects. I am eager to take on the challenges of web develop
 
 - 📫 How to reach me **harshalmusmade410@gmail.com**
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://harshal0410.github.io)
+- 👨‍💻 All my projects are available at my **[Portfolio](https://harshal0410.github.io)**
     
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
